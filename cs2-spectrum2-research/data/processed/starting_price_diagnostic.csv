@@ -1,0 +1,4 @@
+Relationship,Pearson,Spearman
+Start price vs total return,-0.14515143669641953,-0.24754901960784317
+Start price vs mean saturation,0.34702281322182854,0.43137254901960786
+Mean saturation vs total return,0.6053833299240742,0.17892156862745098

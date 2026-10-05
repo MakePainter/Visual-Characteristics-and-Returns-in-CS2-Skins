@@ -1,0 +1,6 @@
+requests
+numpy
+pandas
+Pillow
+colorthief-v3
+matplotlib

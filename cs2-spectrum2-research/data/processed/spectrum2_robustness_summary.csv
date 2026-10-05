@@ -1,0 +1,8 @@
+Statistic,Value
+Lower winsorization quantile,0.01
+Upper winsorization quantile,0.99
+Lower daily-return bound,-0.29592321926830994
+Upper daily-return bound,0.41021933889403694
+Valid daily returns,17707.0
+Winsorized observations,356.0
+Percent winsorized,0.020105043203252952
